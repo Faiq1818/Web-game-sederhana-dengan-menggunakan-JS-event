@@ -1,0 +1,21 @@
+body{
+    background-color: skyblue;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    
+}
+ 
+.container img {
+    margin-top: 100px;
+    width: 100px;
+}
+
+#petunjuk1{
+    text-align: center;
+    font-size: 200%;
+}
